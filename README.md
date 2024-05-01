@@ -8,7 +8,7 @@
 
 ## Results reproduction
 At this point, I would like to encourage all interested parties to test my solution (especially by comparing the performance with the base model).
-* The exact instructions for training and evaluation are the same as for the orginal Dense-TNT: (https://github.com/Tsinghua-MARS-Lab/DenseTNT)
+* The exact instructions for training and evaluation are the same as for the orginal Dense-TNT: (https://github.com/Tsinghua-MARS-Lab/DenseTNT or check the README.md in the model subdirectory)
 * Link to the dataset used: (https://www.argoverse.org/av2.html). Please look for Argoverse 2 Motion Forecasting Dataset on the bottom of the page.
 
 ## What was changed
