@@ -12,6 +12,6 @@ At this point, I would like to encourage all interested parties to test my solut
 * Link to the dataset used: (https://www.argoverse.org/av2.html). Please look for Argoverse 2 Motion Forecasting Dataset on the bottom of the page.
 
 ## What was changed
-* In the DenseTNT the proposed mechanism was applied in: Application of Query Sub-Attention Branch-based **root-directory/src/modeling/lib.py**
+* In the DenseTNT the proposed mechanism was applied in: **root-directory/src/modeling/lib.py**
 * The rest of the basebone model remain unchanged.
 * I strongly encourage you to compare the differences between my version and the original model
